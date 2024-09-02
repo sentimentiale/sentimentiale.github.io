@@ -1,0 +1,53 @@
+body
+{
+    font-family: 'neue-haas-grotesk-display', Sans-serif !important;
+}
+
+.navbar-brand.active,
+.navbar-brand:hover
+{
+    text-decoration: underline;
+}
+
+.nav-link
+{
+    font-size: 20px;
+}
+
+.nav-link.active,
+.nav-link:hover
+{
+    text-decoration: underline;
+}
+
+p.project-mini-description
+{
+    margin-top: 16px;
+    line-height: 18px;
+}
+
+p.project-year
+{
+    margin-top: 16px;
+    line-height: 18px;
+    text-align: right;
+}
+
+hr.project-divider
+{
+    margin: 0px;
+    border-color: black;
+    color: black;
+    opacity: 1;
+}
+
+p.project-title,
+p.project-description
+{
+    line-height: 18px;
+}
+
+img.img-project
+{
+    margin-bottom: 20px;
+}
