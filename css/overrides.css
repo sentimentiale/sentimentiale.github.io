@@ -35,7 +35,10 @@ p.project-year
 
 hr.project-divider
 {
-    margin: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 20px;
     border-color: black;
     color: black;
     opacity: 1;
